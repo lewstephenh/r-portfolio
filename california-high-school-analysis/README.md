@@ -1,4 +1,4 @@
-# California High School Prediction Model
+# California High School Analysis
 
 ## File Information
 - **Program Name:** `regression_analysis.r`
